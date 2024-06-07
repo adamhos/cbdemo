@@ -1,6 +1,6 @@
 ftp_host="clawback.microsolved.com"
 user="ftpupload"
-pass="$ecr3tp4ss"
+pass="$ecr3tp4ssw0rd"
 path="/"
 
 do
